@@ -1,0 +1,14 @@
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/CMakeFiles/install/local.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/CMakeFiles/install.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/CMakeFiles/flashcards_quiz.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/mnt/30ab66ff-31e8-48e4-8613-a80e5499bd83/Other/Other/flutter/rapper/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
